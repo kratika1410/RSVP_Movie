@@ -11,7 +11,7 @@ The production company wants to plan their every move analytically based on data
 You are a data analyst and an SQL expert. You must use SQL to analyze the given data and give recommendations to RSVP Movies based on the insights. For your convenience, the entire analytics process has been divided into four segments, where each segment leads to significant insights from different combinations of tables. The questions in each segment with business objectives are written in the script.
 
 
-###Data Set and Database Creation
+### Data Set and Database Creation
 
 
     1.Download the IMDb dataset.
@@ -22,6 +22,6 @@ You are a data analyst and an SQL expert. You must use SQL to analyze the given 
 If you don't wish to perform the data loading part, you can directly download the SQL script file containing all the commands and data required for the database creation and start directly with the querying.
 
 
-###ERD
+### ERD
 
 ![image](https://user-images.githubusercontent.com/51714776/209062918-69b8e068-1890-4ba5-baff-4f911a1ca3e2.png)
