@@ -1,4 +1,4 @@
-# RSVP_Movie_CaseStudy
+# RSVP_Movie
 SQL queries performed on IMDb database to provide recommendations to RSVP Movies based on insights. 
 
 
